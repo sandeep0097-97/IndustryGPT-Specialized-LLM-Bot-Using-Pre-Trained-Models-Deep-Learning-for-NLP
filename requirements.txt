@@ -1,0 +1,13 @@
+accelerate==0.21.0
+peft==0.4.0 
+transformers
+trl==0.4.7
+streamlit
+scipy
+torch
+bitsandbytes-cuda117
+numpy
+python-dotenv
+sentencepiece 
+replicate
+
